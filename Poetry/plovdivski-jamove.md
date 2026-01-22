@@ -164,7 +164,7 @@ Google Studio, Arghhhhh!
 
 </pre>
   
-Бележки:
+**Бележки:**
 
 * Рецесията във видео игрите от 1983 г. или "Atari Shock" - https://en.wikipedia.org/wiki/Video_game_crash_of_1983
 * https://www.reddit.com/r/gaming/comments/1b380gx/a_brief_history_of_the_video_game_crash_of_1983/  
